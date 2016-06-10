@@ -4,43 +4,31 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<div class="side-by-side">
+	<div class="toleft">
+		<p>Mi nombre es <span>Bexandy Rodríguez</span>, soy Ingeniero Electrónico en Computación, y aunque no tengo experiencia "formal" como programador, he esta trabajando de manera independiente y me apasiona este mundo del desarrollo de sistemas y aplicaciones, por lo que he dedicado gran parte de mi tiempo al aprendizaje de los últimos estándares y al mejoramiento progresivo de mis métodos de programación, logrando de esta manera hacer  algo que me gusta, sintiéndome siempre motivado y con la mejor disposición de emprender nuevos proyectos y retos que se me plantean.</p>
+	</div>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+	<div class="toright">
+		<img class="image" src="../assets/images/Bexandy-Rodriguez.jpg" alt="Alt Text">
+		<figcaption class="caption">Photo by Bexandy Rodríguez</figcaption>
+	</div>
+</div>
+
+
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
+	<li>HTML - HTML5</li>
 	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
+	<li>Css Frameworks (Bootstrap)</li>
+	<li>Javascript</li>
+	<li>JQuery</li>
 	<li>Git</li>
 	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
-
-<h2>Projects</h2>
-
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li>Zend Framework</li>
+	<li>MySQL - PostgreSQL</li>
+	<li>Modelo Vista-Controlador - MVC</li>
+	<li>Programación Orientada a Objetos</li>
 </ul>
