@@ -21,12 +21,13 @@ layout: page
 
 <ul class="skill-list">
 	<li>HTML - HTML5</li>
-	<li>CSS (Stylus, Sass, Less)</li>
+	<li>CSS</li>
 	<li>Css Frameworks (Bootstrap)</li>
 	<li>Javascript</li>
 	<li>JQuery</li>
 	<li>Git</li>
 	<li>PHP</li>
+	<li>Yii Framework</li>
 	<li>Zend Framework</li>
 	<li>MySQL - PostgreSQL</li>
 	<li>Modelo Vista-Controlador - MVC</li>
