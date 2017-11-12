@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="Jekyll">
+    <serverData>
+      <paths name="Jekyll">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="_site" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

@@ -7,7 +7,8 @@ bio: 'Un Emprendedor Entusiasta que Ama la Programación...'
 external-image: false
 picture: 'assets/images/profile.jpg'
 
-url: http://bexandy.github.io
+url: http://localhost:4000
+#url: http://bexandy.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
